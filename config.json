@@ -1,4 +1,6 @@
 {
+	"GLOBAL_LATENCY": 1,
+	"GLOBAL_LATENCY_DESCRIPTION": "change GLOBAL_LATENCY to your lowest usual ping",
 	"CYCLONE_DASH": false,
 	"CYCLONE_DASH_DESCRIPTION": "If set to true, it will send dash before every cyclone if possible.",
 	"AUTO_LR_INTO_RAMPAGE": true,
